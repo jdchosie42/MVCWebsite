@@ -191,7 +191,8 @@ a {
 
 a:active,
 a:focus,
-a:hover {
+a:hover,
+a:visited {
     color: #824027
 }
 
@@ -364,7 +365,7 @@ a {
 }
 
     a:hover {
-        color: #0056b3;
+        color: #3500D3;
         text-decoration: underline;
     }
 
